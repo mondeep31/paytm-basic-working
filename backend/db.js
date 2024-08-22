@@ -1,4 +1,4 @@
-import mongoose, { Mongoose } from "mongoose";
+
 
 const mongoose = require('mongoose')
 mongoose.connect("mongodb+srv://mandeepchetry6969:Gomagni%40123@cluster0.mkrcx02.mongodb.net/paytm")
